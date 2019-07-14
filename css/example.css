@@ -1,0 +1,31 @@
+h4 {
+	color: #e16879;
+}
+ body {
+	 background-image: url("../img/world2.jpg");
+	 background-repeat: no-repeat;
+	 background-size: cover;
+	 background-position: center center;
+	 overflow: auto;
+	 min-height: 100%;
+	 width: 100%;
+	 }	
+strong {
+  color:#69707a ;
+}
+
+.navbar {
+  background:#e16879;
+}
+
+img { 
+	width: 100px; 
+	height: 100px;
+}
+<style>
+a:https://maximonivel.com/volunteers/teaching-english/ {
+  color: #e16879; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
